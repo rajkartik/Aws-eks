@@ -36,5 +36,5 @@
 
 ### Make sure kube config is configured and you are able to access your cluster Run following command to verify:
     kubectl get svc
-###run below command to deploy The hello App in EKS Cluster :
+### run below command to deploy The hello App in EKS Cluster :
     kubectl apply -f hello-deploy.yaml
